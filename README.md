@@ -1,5 +1,5 @@
 <h1 align="center">PIZZA SALES ANALYSIS MySQL PROJECT</h1>
-<p align="center" <a target="_blank" rel="noreferrer"> <img src="shourav-sheikh-a66sGfOnnqQ-unsplash.jpg" alt="mysql" width="800" height="500" /> </a>
+<p align="center" <a target="_blank" rel="noreferrer"> <img src="Screenshot_7-5-2024_19143_.jpeg" alt="mysql" width="800" height="500" /> </a>
 
 DESCRIPTION :
 -
